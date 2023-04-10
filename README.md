@@ -3,11 +3,11 @@ In this project  in have implemented simple REST API services with the help of S
 
 
 * SpringBoot View
-* 
+ 
 ![Screenshot from 2023-04-10 11-30-50](https://user-images.githubusercontent.com/106417521/230845437-dfbbaf8d-d4c1-4770-b570-40ad005de72b.png)
 
 * GET -- to see whole Course list
-* 
+ 
 ![Screenshot from 2023-04-10 12-00-05](https://user-images.githubusercontent.com/106417521/230845510-825aab0d-2e32-416d-ab70-ee82041346da.png)
 
 * GET -- get Course list by id
