@@ -21,3 +21,4 @@ In this project  in have implemented simple REST API services with the help of S
 * PUT -- update courses in JSON format
 
 ![Screenshot from 2023-04-10 12-00-24](https://user-images.githubusercontent.com/106417521/230845639-d78c55ac-0278-42e3-a38c-e6e560498aac.png)
+
